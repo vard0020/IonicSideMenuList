@@ -1,0 +1,17 @@
+/* Empty. Add your own CSS if you like */
+.fillWidth
+{
+    width: 100%;
+}
+
+.item-done {
+	text-decoration: line-through;
+}
+
+ion-item.item :hover {
+  background-color: lightgrey;
+}
+
+#work {color: deepskyblue;}
+#personal {color: gold;}
+#shopping {color: limegreen;}
